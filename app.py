@@ -16,4 +16,4 @@ def _compose_image(image_files, token_id):
     composite.save(output_path)
 
 if __name__ == '__main__':
-    _compose_image(["images/bases/base-crab.png", "images/eyes/eyes-big.png", "images/mouths/mouth-happy.png"], "2")
+    _compose_image(["images/bases/base-crab.png", "images/eyes/eyes-big.png", "images/mouths/mouth-cute.png"], "1")
